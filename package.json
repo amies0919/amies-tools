@@ -1,0 +1,16 @@
+{
+  "name": "amies",
+  "version": "1.0.1",
+  "description": "amies utils",
+  "main": "dist/amies.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "amies.shen@gmail.com",
+  "license": "MIT",
+  "devDependencies": {
+    "lodash": "^4.17.11",
+    "webpack": "^4.30.0"
+  }
+}
